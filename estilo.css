@@ -1,0 +1,22 @@
+.contenedor{
+    font-size: 2rem;
+    color: rgb(111, 240, 72);
+    align-content: center;
+}
+body{
+    background: rgb(143, 143, 231);
+    width: 680px;
+    height: 1024px;
+}
+.contenedor-1{
+
+    font-size: 2rem;
+    color: tomato;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: normal;
+
+}
+.boton{
+    background-color: aqua;
+    color: azure;
+}
